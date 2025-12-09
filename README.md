@@ -9,7 +9,7 @@ The report is fully interactive and allows drill-down into details for deeper in
  ## 🔗 Interactive Dashboard  
 Click below to open and interact with the full dashboard:
 
-👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTVkNTZkY2UtYzkxYi00MWZlLWJlNGUtZjg1NzNhZmJjMzE3IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9)**
+👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBjODAyNTUtYjNhMy00MDdmLTgxMTAtZjdhYTZmOGE1ODk5IiwidCI6IjJiNzczZDk5LWYyMjktNDcwNC1iNTYyLTVhMzE5ODgzMTc3OSIsImMiOjh9)**
 
 ---
 
